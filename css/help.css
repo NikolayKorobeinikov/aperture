@@ -1,0 +1,27 @@
+.help {
+  padding-top: 113px;
+  padding-bottom: 108px;
+}
+.assistance {
+  max-width: 571px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+  text-align: center;
+}
+.assistance__title {
+  color: rgb(255, 255, 255);
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 42px;
+  letter-spacing: 0%;
+}
+.assistance__subtitle {
+  color: rgb(192, 192, 192);
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0%;
+  margin-top: 15px;
+}

@@ -1,0 +1,119 @@
+.contents {
+  padding: 100px 136px;
+}
+.service {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.camerist__desc {
+  color: rgb(192, 192, 192);
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-top: 20px;
+}
+.job {
+  display: flex;
+  flex-direction: row;
+}
+.business,
+.pages {
+  max-width: 220.8px;
+}
+.business {
+  margin-right: 16px;
+  padding-right: 39px;
+}
+.pages {
+  padding-right: 102px;
+  margin-bottom: 36px;
+}
+.business__title,
+.pages__title {
+  color: rgb(192, 192, 192);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-align: left;
+  text-transform: uppercase;
+}
+.roster__item {
+  color: rgb(255, 255, 255);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-top: 10px;
+}
+.line {
+  background: rgb(255, 255, 255);
+  height: 2px;
+  max-width: 1168px;
+}
+.subscribe {
+  margin: 36px 0px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.things__title {
+  color: rgb(255, 255, 255);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-align: left;
+  text-transform: uppercase;
+}
+.things__desc {
+  margin-top: 20px;
+  color: rgb(192, 192, 192);
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.white__btn {
+  width: 458px;
+  height: 52px;
+  border: 1px solid rgb(229, 231, 235);
+  border-radius: 12px;
+  background: rgb(249, 250, 251);
+  padding: 11px 6px 11px 389px;
+}
+.black__btn {
+  width: 63px;
+  height: 30px;
+  border-radius: 0.6875rem;
+  background: #000;
+}
+.end {
+  margin-top: 56px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.end__text {
+  color: rgb(192, 192, 192);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.social {
+  display: flex;
+  gap: 20px;
+}
+.twitter,
+.instagram,
+.facebook {
+  width: 24px;
+  height: 24px;
+}

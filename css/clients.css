@@ -1,0 +1,49 @@
+.clients {
+  padding: 120px 120px 100px 120px;
+}
+.customers__title {
+  color: rgb(255, 255, 255);
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 42px;
+  letter-spacing: 0%;
+  text-align: center;
+  margin-bottom: 15px;
+}
+.customers__subtitle {
+  color: rgb(192, 192, 192);
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+.companies {
+  margin-top: 42px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 109px;
+  padding: 40px 62px;
+}
+.hill__hayes {
+  width: 128px;
+  height: 30px;
+}
+.riksgransen {
+  width: 128px;
+  height: 78px;
+}
+.studio__cai {
+  width: 128px;
+  height: 20px;
+}
+.chill__industries {
+  width: 128px;
+  height: 36px;
+}
+.stockholm {
+  width: 128px;
+  height: 32px;
+}

@@ -1,0 +1,45 @@
+.photo__tools {
+  display: flex;
+}
+.tools {
+  padding: 60px 46px 40px 40px;
+  margin: 113px 60px;
+}
+.tools__subtitle {
+  color: rgb(192, 192, 192);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-align: left;
+  text-transform: uppercase;
+  margin-bottom: 6px;
+}
+.tools__title {
+  color: rgb(255, 255, 255);
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-bottom: 14px;
+}
+.tools__desc {
+  color: rgb(255, 255, 255);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0%;
+  text-align: left;
+  width: 514px;
+  margin-bottom: 20px;
+}
+.camera {
+  background-image: url(../images/tools.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 720px;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
